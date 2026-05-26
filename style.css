@@ -1,0 +1,19 @@
+.start-button {
+    background-color: #09266d; /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    font-size: 16px;
+    margin: 4px 2px;
+   
+}
+.content {
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.body {background-color: #AEC6CF;
+   
+}
